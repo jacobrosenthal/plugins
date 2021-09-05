@@ -1,6 +1,11 @@
-// Quick View Upgradeable
+// Quick view Upgradeable  
 //
-// Combination of Quick-upgrade + Upgrade able view plugins
+//  Description:
+//   This plugin give you the opportunity to upgrade single planets per selection from map/list of planets with overview amount of silver. 
+//   Or Upgrade whole empire with specific upgrade.
+//
+//   Remixed from Quick-upgrade + Upgrade able planets list 
+//
 
 import {
   html,
